@@ -1,0 +1,5 @@
+let img=document.querySelector('img')
+console.log(img)
+img.getAttribute('src')
+img.setAttribute('id', 'image_id')
+img.setAttribute('class', 'image_class')
