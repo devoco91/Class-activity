@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(red, yellow);
+}
+
+h1{
+    color: white;
+    font-style: italic;
+}
+p{
+    font-style: italic;
+}
